@@ -1,0 +1,7 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/sai/Desktop/CodeSprint%2D%2DGoogle-Applied-CS-with-Android-master/TextTwist/Text%20Twist/app/src/main/res/layout/activity_game.xml -->
